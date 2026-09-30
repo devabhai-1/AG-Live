@@ -2,7 +2,7 @@
 
 Marketing site for AG Live (`com.agfarmer.live`).
 
-Live URL after GitHub Pages: https://devabhai-1.github.io/AG-Live/
+Live URL: https://www.ag-live.in/
 
 ```bash
 npm install
