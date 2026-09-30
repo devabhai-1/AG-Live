@@ -1,0 +1,17 @@
+# AG Live website (same stack as AG Farmer website)
+#
+# Stack: Vite + React + lucide-react
+# Domain: https://ag-live.in
+#
+# Local:
+#   cd "AG Live/website"
+#   npm install
+#   npm run dev
+#
+# Build for hosting:
+#   npm run build
+#   Upload `dist/` to Contabo / Vercel (document root)
+#   Also keep `public/privacy-policy` etc. — Vite copies public/ into dist/
+#
+# Play Store privacy URL:
+#   https://ag-live.in/privacy-policy/
