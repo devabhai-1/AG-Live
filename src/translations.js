@@ -249,7 +249,7 @@ export const translations = {
         },
         {
           q: 'खाता कैसे डिलीट करें?',
-          a: 'ऐप से या https://ag-live.in/account-deletion/ पर दिए गए चरणों से। ईमेल: support@agfarmer.app',
+          a: 'ऐप से या https://ag-live.in/account-deletion/ पर दिए गए चरणों से। ईमेल: ag.farmer.mail@gmail.com',
         },
       ],
     },
@@ -260,7 +260,8 @@ export const translations = {
       links: [
         { name: 'प्राइवेसी पॉलिसी', url: '/privacy-policy/', desc: 'डेटा सुरक्षा व AI डिस्क्लोजर' },
         { name: 'नियम व शर्तें', url: '/terms-and-conditions/', desc: 'AI सलाह अस्वीकरण' },
-        { name: 'संपर्क', url: '/contact-us/', desc: 'support@agfarmer.app' },
+        { name: 'हमारे बारे में', url: '/about-us/', desc: 'ag.farmer.mail@gmail.com' },
+        { name: 'संपर्क', url: '/contact-us/', desc: 'ag.farmer.mail@gmail.com' },
         { name: 'खाता डिलीट', url: '/account-deletion/', desc: 'Account deletion steps' },
       ],
     },
@@ -523,7 +524,7 @@ export const translations = {
         },
         {
           q: 'How do I delete my account?',
-          a: 'From the app or via https://ag-live.in/account-deletion/. Email: support@agfarmer.app',
+          a: 'From the app or via https://ag-live.in/account-deletion/. Email: ag.farmer.mail@gmail.com',
         },
       ],
     },
@@ -534,7 +535,8 @@ export const translations = {
       links: [
         { name: 'Privacy Policy', url: '/privacy-policy/', desc: 'Data safety & AI disclosure' },
         { name: 'Terms & Conditions', url: '/terms-and-conditions/', desc: 'AI advisory disclaimer' },
-        { name: 'Contact', url: '/contact-us/', desc: 'support@agfarmer.app' },
+        { name: 'About us', url: '/about-us/', desc: 'ag.farmer.mail@gmail.com' },
+        { name: 'Contact', url: '/contact-us/', desc: 'ag.farmer.mail@gmail.com' },
         { name: 'Account Deletion', url: '/account-deletion/', desc: 'Deletion steps' },
       ],
     },

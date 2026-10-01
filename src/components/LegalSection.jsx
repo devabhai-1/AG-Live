@@ -1,11 +1,12 @@
 import React from 'react';
-import { Shield, FileText, Mail, Trash2, ArrowUpRight } from 'lucide-react';
+import { Shield, FileText, Mail, Trash2, ArrowUpRight, Info } from 'lucide-react';
 import { sitePath } from '../sitePath';
 
 export default function LegalSection({ t }) {
   const icons = [
     <Shield size={24} color="#0284C7" />,
     <FileText size={24} color="#0284C7" />,
+    <Info size={24} color="#0284C7" />,
     <Mail size={24} color="#0284C7" />,
     <Trash2 size={24} color="#EF4444" />,
   ];

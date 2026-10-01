@@ -49,6 +49,7 @@ export default function Footer({ t }) {
           <ul>
             <li><a href={sitePath('privacy-policy/')}>Privacy Policy</a></li>
             <li><a href={sitePath('terms-and-conditions/')}>Terms &amp; Conditions</a></li>
+            <li><a href={sitePath('about-us/')}>About</a></li>
             <li><a href={sitePath('contact-us/')}>Contact</a></li>
             <li><a href={sitePath('account-deletion/')}>Account Deletion</a></li>
           </ul>
