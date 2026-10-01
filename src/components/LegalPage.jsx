@@ -40,7 +40,7 @@ const pages = {
       title: 'खाता डिलीट',
       updated: 'Google Play डेटा सेफ्टी / अकाउंट डिलीशन',
       blocks: [
-        { h: 'ऐप में', p: 'AG Live खोलें और साइन इन करें। ऊपर शील्ड आइकन खोलें। खाता डिलीट चुनें और कन्फर्म करें।' },
+        { h: 'ऐप में', p: 'AG Live खोलें और साइन इन करें। शील्ड आइकन पर खाता डिलीट चुनें। कन्फर्म डायलॉग में हाँ करने पर खाता ऐप में ही हट जाता है।' },
         { h: 'ईमेल से', p: 'रजिस्टर्ड ईमेल से ag.farmer.mail@gmail.com पर विषय “AG Live account deletion” लिखकर फोन/ईमेल भेजें। कानूनी जरूरत के रिकॉर्ड छोड़कर बाकी डेटा उचित समय में हटाया जाएगा।' },
       ],
     },
@@ -93,7 +93,7 @@ const pages = {
       title: 'Delete your account',
       updated: 'Google Play data safety / account deletion',
       blocks: [
-        { h: 'In the app', p: 'Open AG Live and sign in. Tap the shield icon. Choose Account deletion and confirm.' },
+        { h: 'In the app', p: 'Open AG Live and sign in. Choose Account deletion from the shield menu. A confirmation dialog appears, and the account is deleted in the app.' },
         { h: 'By email', p: 'Email ag.farmer.mail@gmail.com from your registered address with subject “AG Live account deletion” and your phone/email. We delete or anonymize account data within a reasonable period, except records required for legal or fraud prevention.' },
       ],
     },
