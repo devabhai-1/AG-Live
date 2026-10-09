@@ -1,7 +1,13 @@
 {
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
   "cleanUrls": true,
-  "trailingSlash": false,
+  "trailingSlash": true,
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/((?!privacy-policy|terms-and-conditions|account-deletion|about-us|contact-us|assets|sitemap\\.xml|robots\\.txt|CNAME).*)",
+      "destination": "/index.html"
+    }
   ]
 }
